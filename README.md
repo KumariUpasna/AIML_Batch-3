@@ -3,7 +3,7 @@
 
   [lab-2 part-2](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_2.ipynb)
 
-
+3.[Lab-3](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_3.ipynb)
 
 4.[lab-4](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_4.ipynb)
 
