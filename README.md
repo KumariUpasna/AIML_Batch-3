@@ -11,7 +11,7 @@
 
 6.[Lab-6](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_6.ipynb)
 
-7.[Lab-7]()
+7.[Lab-7](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_7.ipynb)
 
 8.[Lab-8](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_8.ipynb)
 
