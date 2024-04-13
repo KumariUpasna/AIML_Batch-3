@@ -9,6 +9,10 @@
 
 5.[lab-5](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_5.ipynb)
 
+6.[Lab-6](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_6.ipynb)
+
+7.[Lab-7]()
+
 8.[Lab-8](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_8.ipynb)
 
 
