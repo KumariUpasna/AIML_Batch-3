@@ -17,3 +17,4 @@
 
 
 
+10.[Lab-10](https://github.com/KumariUpasna/AIML_Batch-3/blob/main/Assignment_10.ipynb)
